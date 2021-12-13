@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        "Mi primera aplicación" y un párrafo que diga "Esta es mi primera aplicación en React, está padrísimo!".
         </p>
         <a
           className="App-link"
