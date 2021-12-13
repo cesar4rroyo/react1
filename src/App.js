@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Mi primera aplicación</h1>
         <p>
-        "Esta es mi primera aplicación en React, está padrísimo!".
+        Esta es mi primera aplicación en React, está padrísimo!
         </p>
         <a
           className="App-link"
